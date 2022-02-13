@@ -6,3 +6,14 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+# Compiled class file
+*.class
+.idea/
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+
